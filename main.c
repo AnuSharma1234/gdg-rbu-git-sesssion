@@ -1,6 +1,6 @@
 t #include <stdio.h>
 
 int main(){
-    printf("Hello,world");
+    printf("Git Ki MKC");
     return 0;
 }
