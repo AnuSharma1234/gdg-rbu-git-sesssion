@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){dfbadiufbshyikcbxsdbcchj,
-    printf("Git Ki MKC");
+int main(){
+    printf("Feilding Lag Gayi");
     return 0;
 }
